@@ -1,0 +1,86 @@
+.hero {
+    height: 71vh;
+    background-color: #FDCC1D;
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 7vw;
+}
+
+.he h1 {
+    color: white;
+    font-size: 4em;
+    font-weight: 3em;
+            
+}
+
+.food img {
+    height: 30rem;
+    padding-top: 20px;
+   
+}
+
+.delivery {
+    background-color: white;
+    margin-block: 4vh;
+    width: 40rem;
+    border-radius: 10px;
+    padding-block: 20px;
+}
+
+.deli {
+    display: flex;
+    gap: 30px;
+    padding-left: 20px;
+    align-items: center;
+}
+
+.input {
+    display: flex;
+    gap: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.deli .riil {
+    background-color: rgba(255, 69, 0, 0.1);
+    color: rgb(255, 69, 0);
+    padding-block: 5px;
+    padding-inline: 20px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.pickup{
+    /* background-color: rgba(255, 69, 0, 0.1); */
+    /* color: rgb(255, 69, 0); */
+    /* padding-block: 5px; */
+    /* padding-inline: 20px; */
+    /* border-radius: 6px; */
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.input input {
+    background-color: #F5F5F5;
+    border: none;
+    width: 25rem;
+    border-radius: 10px;
+    padding-block: 10px;
+    padding-left: 10px;
+}
+
+.input p img {
+    height: 1em;
+    /* padding-top: 0.5em; */
+}
+
+.input button {
+    width: 10rem;
+    background-color: orangered;
+    border: none;
+    padding-block: 8px;
+    color: white;
+    border-radius: 10px;
+}

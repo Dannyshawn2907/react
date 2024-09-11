@@ -1,0 +1,45 @@
+
+
+.navs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: 8vw;
+}
+
+.navs img {
+    height: 1.6em;
+    
+}
+
+.navs {
+    display: flex;
+}
+
+.loca h4 {
+  display: flex;
+}
+
+.user {
+  display: flex;
+  gap: 30px;
+}
+
+.user p {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.user p img {
+  height: 12px;
+}
+
+.user .login {
+  color: #fbcc2d;
+  box-shadow: 5px 4px 8px 2px  #fbcc2d;
+  background-color: white;
+  padding-block: 5px;
+  padding-inline: 10px;
+  border-radius: 5px;
+}
